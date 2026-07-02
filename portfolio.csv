@@ -1,0 +1,5 @@
+asset,shares,sector,country,currency,adv
+AAPL,50,Technology,USA,USD,50000000
+MSFT,30,Technology,USA,USD,30000000
+GLD,40,Commodities,Global,USD,8000000
+SPY,20,Index,USA,USD,80000000
